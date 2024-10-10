@@ -1,0 +1,24 @@
+body {
+    background: #191724;
+}
+
+.box {
+    background: #000000;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.header {
+    text-align: center;
+    align-content: center;
+    font-size: 25px;
+}
+
+.line {
+    background: #FFFFFF;
+}
+
+.infotab {
+    border-radius: 100%;
+    background: #00FFFF;
+}
